@@ -9,7 +9,7 @@ class CustomColor {
   static const Color textFieldbg = Color(0xffC8C9CE);
   static const Color hintDark = Color(0xff666874);
   static const Color yellowSecondary = Color(0xff3FFC25C);
-  static const Color yellowwSecondary = Color(0xff3FFC25C);
+  static const Color yellowwSecondary = Color(0xff3FFC45C);
   static const Color yellowPrimary = Color(0xffFFAF29);
   static const Color whitePrimary = Color(0xffEAEAEB);
   static const Color whiteSecendory = Color(0xffC8C9CE);
